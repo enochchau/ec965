@@ -2,7 +2,12 @@
 
 I'm a terminal enthusiast who writes a lot of TypeScript.
 
-My vite plugins includes:
+Neovim plugins:
+
+- [mjml-preview.nvim](https://github.com/ec965/mjml-preview.nvim)
+- [nvim-pnp-checker](https://github.com/ec965/nvim-pnp-checker)
+
+Vite plugins:
 
 - [vite-plugin-minify-template-literals](https://github.com/gatsbylabs/vite-plugin-minify-template-literals)
 - [vite-plugin-unused](https://github.com/gatsbylabs/vite-plugin-unused)
