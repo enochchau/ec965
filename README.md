@@ -5,6 +5,7 @@ I'm a terminal enthusiast who writes a lot of TypeScript.
 Neovim plugins:
 
 - [mjml-preview.nvim](https://github.com/ec965/mjml-preview.nvim)
+- [telescope-node-workspace.nvim](https://github.com/ec965/telescope-node-workspace.nvim)
 - [nvim-pnp-checker](https://github.com/ec965/nvim-pnp-checker)
 
 Vite plugins:
