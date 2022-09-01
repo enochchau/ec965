@@ -1,6 +1,7 @@
 # Hello there
 
 I'm a terminal enthusiast who writes a lot of TypeScript.
+I'm interested in JavaScript bundlers, distributed systems, and dev tools.
 
 Neovim plugins:
 
