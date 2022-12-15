@@ -8,6 +8,8 @@ Neovim plugins:
 - [mjml-preview.nvim](https://github.com/ec965/mjml-preview.nvim)
 - [telescope-node-workspace.nvim](https://github.com/ec965/telescope-node-workspace.nvim)
 - [nvim-pnp-checker](https://github.com/ec965/nvim-pnp-checker)
+- [fnlnvim](https://github.com/ec965/fnlnvim)
+- [async-uv.nvim](https://github.com/ec965/async-uv.nvim)
 
 Vite plugins:
 
