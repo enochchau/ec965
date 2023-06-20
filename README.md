@@ -11,15 +11,19 @@ Neovim plugins:
 - [fnlnvim](https://github.com/ec965/fnlnvim)
 - [async-uv.nvim](https://github.com/ec965/async-uv.nvim)
 
-Vite plugins:
+[Vitest](https://vitest.dev/) Extensions
 
 - [vitest-mongodb](https://github.com/ec965/vitest-mongodb)
+- [vitest-indexddb](https://github.com/ec965/vitest-indexddb)
+
+[Vite](https://vitejs.dev/) plugins:
+
 - [vite-plugin-minify-template-literals](https://github.com/gatsbylabs/vite-plugin-minify-template-literals)
 - [vite-plugin-unused](https://github.com/gatsbylabs/vite-plugin-unused)
 - [vite-plugin-rss](https://github.com/ec965/vite-plugin-rss)
 - [vite-plugin-sharp-resize](https://github.com/ec965/vite-plugin-sharp-resize)
 
-Esbuild plugins:
+[Esbuild](https://esbuild.github.io/) plugins:
 
 - [esbuild-plugin-unused](https://github.com/ec965/esbuild-plugin-unused)
 
